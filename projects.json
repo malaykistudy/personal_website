@@ -35,26 +35,6 @@
             "view": ""
         }   
     },
-    {
-        "name": "Instagram MERN",
-        "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-        "image": "instagrammern",
-        "category": "mern",
-        "links": {
-          "view": "https://instagramernstack.herokuapp.com/",
-          "code": "https://github.com/jigar-sable/instagram-mern"
-        }
-      },
-      {
-        "name": "Instagram MERN 2",
-        "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-        "image": "instagram",
-        "category": "mern",
-        "links": {
-          "view": "https://instagramernstack.herokuapp.com/",
-          "code": "https://github.com/jigar-sable/instagram-mern"
-        }
-      }
-
+      
     
 ]
