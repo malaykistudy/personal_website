@@ -78,13 +78,13 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "");
         } else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/favhand.png");
+            $("#favicon").attr("href", "./assets/images/favhand.png");
         }
     }
     );
 
  var typed = new Typed(".typing-text", {
-        strings: ["Professor", "Researcher"],
+        strings: ["Doctor of Philosophy (PHD)"],
         loop: true,
         typeSpeed: 100,
         backSpeed: 100,
